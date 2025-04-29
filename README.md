@@ -1,4 +1,4 @@
 # 006-Laravel-CRUD
  crud
 
- composer create-project --prefer-dist laravel/laravel proyecto-0 "10.*"
+ composer create-project --prefer-dist laravel/laravel crud "11.*"
